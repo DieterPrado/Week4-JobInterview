@@ -11,6 +11,7 @@
 ### General info
 
 I learned about the candidate selection and interview process and about how the first impression is very important and that we must always answer positively to questions even if the question is negative and always be concise and talk about the professional field. I also learned about the importance of attitude, body language and as clothing.
+
 ------------
 
 ### Technologies
